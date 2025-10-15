@@ -1,0 +1,121 @@
+Orden: 1, Unidad: Unidad 1, Tema: Introducción a los Modelo de Procesos, Subtema: Introducción a la gestión de proyectos, Estado: pendiente
+Orden: 2, Unidad: Unidad 1, Tema: Introducción a los Modelo de Procesos, Subtema: Desarrollo Software, Estado: pendiente
+Orden: 3, Unidad: Unidad 1, Tema: Introducción a los Modelo de Procesos, Subtema: Proceso Software, Estado: pendiente
+Orden: 4, Unidad: Unidad 1, Tema: Introducción a los Modelo de Procesos, Subtema: Ciclo de Vida, Estado: pendiente
+Orden: 5, Unidad: Unidad 1, Tema: Introducción a los Modelo de Procesos, Subtema: Ciclo de Vida del proyecto software, Estado: pendiente
+Orden: 6, Unidad: Unidad 1, Tema: Introducción a los Modelo de Procesos, Subtema: Ciclo de vida del producto software, Estado: pendiente
+Orden: 7, Unidad: Unidad 1, Tema: Introducción a los Modelo de Procesos, Subtema: Modelo de Procesos, Estado: pendiente
+Orden: 8, Unidad: Unidad 1, Tema: Introducción a los Modelo de Procesos, Subtema: Modelos de Procesos: cascada, iterativo incremental, prototipado., Estado: pendiente
+Orden: 9, Unidad: Unidad 1, Tema: Introducción a los Modelo de Procesos, Subtema: Introducción a Proyectos, Estado: pendiente
+Orden: 10, Unidad: Unidad 1, Tema: Introducción a los Modelo de Procesos, Subtema: Definición de proyectos, ejemplos, Estado: pendiente
+Orden: 11, Unidad: Unidad 1, Tema: Introducción a los Modelo de Procesos, Subtema: Características de los proyectos, Estado: pendiente
+Orden: 12, Unidad: Unidad 1, Tema: Introducción a los Modelo de Procesos, Subtema: Tipos de proyectos, Estado: pendiente
+Orden: 13, Unidad: Unidad 1, Tema: Introducción a los Modelo de Procesos, Subtema: Introducción a los proyectos software, Estado: pendiente
+Orden: 14, Unidad: Unidad 1, Tema: Introducción a los Modelo de Procesos, Subtema: Administración de los proyectos software, Estado: pendiente
+Orden: 15, Unidad: Unidad 1, Tema: Introducción a los Modelo de Procesos, Subtema: Metodología de Gestión de Proyectos, Estado: pendiente
+Orden: 16, Unidad: Unidad 1, Tema: Introducción a los Modelo de Procesos, Subtema: Metodología Scrum, Estado: pendiente
+Orden: 17, Unidad: Unidad 1, Tema: Introducción a los Modelo de Procesos, Subtema: Metodología PMBOK, Estado: pendiente
+Orden: 18, Unidad: Unidad 1, Tema: Introducción a los Modelo de Procesos, Subtema: metodología tic, Estado: pendiente
+Orden: 19, Unidad: Unidad 1, Tema: Introducción a los Modelo de Procesos, Subtema: CONT, Estado: pendiente
+Orden: 20, Unidad: Unidad 2, Tema: Gestión de proyectos, Subtema: Gestión de proyectos, Estado: pendiente
+Orden: 21, Unidad: Unidad 2, Tema: Gestión de proyectos, Subtema: Gestión de proyectos de desarrollo software, Estado: pendiente
+Orden: 22, Unidad: Unidad 2, Tema: Gestión de proyectos, Subtema: Los problemas y errores comunes durante el desarrollo de proyecto, Estado: pendiente
+Orden: 23, Unidad: Unidad 2, Tema: Gestión de proyectos, Subtema: software (personas, proceso, producto y tecnología)., Estado: pendiente
+Orden: 24, Unidad: Unidad 2, Tema: Gestión de proyectos, Subtema: Modelos de estimación para planificar proyectos software, Estado: pendiente
+Orden: 25, Unidad: Unidad 2, Tema: Gestión de proyectos, Subtema: Estimación por puntos de función, Estado: pendiente
+Orden: 26, Unidad: Unidad 2, Tema: Gestión de proyectos, Subtema: Estimación por puntos de caso de uso, Estado: pendiente
+Orden: 27, Unidad: Unidad 2, Tema: Gestión de proyectos, Subtema: Estimación metodologías ágiles, Estado: pendiente
+Orden: 28, Unidad: Unidad 2, Tema: Gestión de proyectos, Subtema: Organización de un proyecto de desarrollo de sw (organización:, Estado: pendiente
+Orden: 29, Unidad: Unidad 2, Tema: Gestión de proyectos, Subtema: de proyecto y de matriz)., Estado: pendiente
+Orden: 30, Unidad: Unidad 2, Tema: Gestión de proyectos, Subtema: Organización de un proyecto de desarrollo de sw (organización: fun, Estado: pendiente
+Orden: 31, Unidad: Unidad 2, Tema: Gestión de proyectos, Subtema: proyecto y de matriz)., Estado: pendiente
+Orden: 32, Unidad: Unidad 2, Tema: Gestión de proyectos, Subtema: Guía para la Definición del plan de gestión de proyectos softwar, Estado: pendiente
+Orden: 33, Unidad: Unidad 2, Tema: Gestión de proyectos, Subtema: Guía para la Definición del plan de gestión de proyectos software(S, Estado: pendiente
+Orden: 34, Unidad: Unidad 2, Tema: Gestión de proyectos, Subtema: CONT, Estado: pendiente
+Orden: 35, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Gestion de proyectos con SCRUM, Estado: pendiente
+Orden: 36, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Estudio de un caso de desarrollo con SCRUM, Estado: pendiente
+Orden: 37, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Formación de los equipos de trabajo, Estado: pendiente
+Orden: 38, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: seguimiento de la gestión del plan de proyecto, Estado: pendiente
+Orden: 39, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: gestion de proyectos con PMBOK, Estado: pendiente
+Orden: 40, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Estudio de caso de desarrollo de un paradigma tradicional, Estado: pendiente
+Orden: 41, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Formación de equipos de trabajo, Estado: pendiente
+Orden: 42, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Entrega de guías de PMBOK, Estado: pendiente
+Orden: 43, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Registro de información en las guías de pmbook, Estado: pendiente
+Orden: 44, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Seguimiento del plan de gestión, Estado: pendiente
+Orden: 45, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Cierre del proyecto, Estado: pendiente
+Orden: 46, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Metodos de Enseñanza - Aprendizaje, Estado: pendiente
+Orden: 47, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: 1 Resolución de Problemas, Estado: pendiente
+Orden: 48, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: 2 Lección Oral y Escrita, Estado: pendiente
+Orden: 49, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Empleo de Tics en los Procesos de Aprendizaje, Estado: pendiente
+Orden: 50, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: 1 Aula Virtual, Estado: pendiente
+Orden: 51, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: 2 Herramientas Colaborativas (Google, drive, onedrives, otros), Estado: pendiente
+Orden: 52, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: 4. RESULTADOS DEL APRENDIZAJE, CONTRIBUCIÓN, Estado: pendiente
+Orden: 53, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Logro o resultado de aprendizaje, Estado: pendiente
+Orden: 54, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Alta(A), Media (, Estado: pendiente
+Orden: 55, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: C(Baja)., Estado: pendiente
+Orden: 56, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Conoce y aplica la gestión de la calidad, Estado: pendiente
+Orden: 57, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: 1. Alta A, Estado: pendiente
+Orden: 58, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: del software, Estado: pendiente
+Orden: 59, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Conoce y aplica la gestión de, Estado: pendiente
+Orden: 60, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: 2. Alta A, Estado: pendiente
+Orden: 61, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: configuración del software, Estado: pendiente
+Orden: 62, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Conoce y aplica el proceso de, Estado: pendiente
+Orden: 63, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: 3. Alta A, Estado: pendiente
+Orden: 64, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: estimación de proyectos software, Estado: pendiente
+Orden: 65, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: 5. DISTRIBUCIÓN DEL TIEMPO, Estado: pendiente
+Orden: 66, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Conferencias Clases, Estado: pendiente
+Orden: 67, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Prácticas, Estado: pendiente
+Orden: 68, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: 64 20 14 14, Estado: pendiente
+Orden: 69, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Técnica de evaluación, Estado: pendiente
+Orden: 70, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Solución de Problemas, Estado: pendiente
+Orden: 71, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Lecciones oral/escrita, Estado: pendiente
+Orden: 72, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Exposición, Estado: pendiente
+Orden: 73, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Resolución de Ejercicios, Estado: pendiente
+Orden: 74, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Técnica de evaluación, Estado: pendiente
+Orden: 75, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Prácticas, Estado: pendiente
+Orden: 76, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Examen Parcial, Estado: pendiente
+Orden: 77, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Titulo Autor E, Estado: pendiente
+Orden: 78, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Ingeniería del software: un, Estado: pendiente
+Orden: 79, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Pressman, Roger S., Estado: pendiente
+Orden: 80, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: enfoque práctico, Estado: pendiente
+Orden: 81, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Action management : ideas, Estado: pendiente
+Orden: 82, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: prácticas para transformar su, Estado: pendiente
+Orden: 83, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Redwood, Stephen, Estado: pendiente
+Orden: 84, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: empresa en una fuente de, Estado: pendiente
+Orden: 85, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: generación de valor, Estado: pendiente
+Orden: 86, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: AGILE PROCESSES IN, Estado: pendiente
+Orden: 87, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: SOFTWARE ENGINEERING AND -, Estado: pendiente
+Orden: 88, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: EXTREME PROGRAMMING, Estado: pendiente
+Orden: 89, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: GESTION DE PROYECTOS., Estado: pendiente
+Orden: 90, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: PRODUCCION POR PUESTOS, Estado: pendiente
+Orden: 91, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: FIJOS. METODOLOGIA, Estado: pendiente
+Orden: 92, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: PMBOOK. (ESTA MONOGRAFIA Cuatrecasas ArbOs, Lluis, Estado: pendiente
+Orden: 93, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: ES UN CAPITULO DEL LIBRO, Estado: pendiente
+Orden: 94, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: ORGANIZACION DE LA, Estado: pendiente
+Orden: 95, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: PRODUCCION Y DIRECCION DE, Estado: pendiente
+Orden: 96, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: OPERACIONES). 1A. ED., Estado: pendiente
+Orden: 97, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Agile Processes in Software, Estado: pendiente
+Orden: 98, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Engineering and Extreme, Estado: pendiente
+Orden: 99, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Programming 13th International, Estado: pendiente
+Orden: 100, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: [sin autor], Estado: pendiente
+Orden: 101, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Conference, XP 2012, Malmö,, Estado: pendiente
+Orden: 102, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Sweden, May 21-25, 2012., Estado: pendiente
+Orden: 103, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Proceedings, Estado: pendiente
+Orden: 104, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: 10. ACUERDOS, Estado: pendiente
+Orden: 105, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Mantener en todo momento un clima de empatía y consider, Estado: pendiente
+Orden: 106, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Cumplir con las leyes y reglamentos institucionales y orienta, Estado: pendiente
+Orden: 107, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Universidad (Misión, Visión), Estado: pendiente
+Orden: 108, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: mismos., Estado: pendiente
+Orden: 109, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: 4 Asistir a clases siempre y puntualmente dando ejemplo al es, Estado: pendiente
+Orden: 110, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Motivar, estimular y mostrar interés por el aprendizaje signifi, Estado: pendiente
+Orden: 111, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: De los Estudiantes:, Estado: pendiente
+Orden: 112, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: 1 Mantener en todo momento un clima de empatía y consider, Estado: pendiente
+Orden: 113, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: etc., Estado: pendiente
+Orden: 114, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: 2 Cumplir con las leyes y reglamentos institucionales y orient, Estado: pendiente
+Orden: 115, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Universidad (Misión, Visión), Estado: pendiente
+Orden: 116, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: De los Estudiantes:, Estado: pendiente
+Orden: 117, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: Ecuatoriano en favor de los mismos., Estado: pendiente
+Orden: 118, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: 4 Ser honesto, no copiar, no mentir, Estado: pendiente
+Orden: 119, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: 6 Colaborar con los eventos programados por la institución e i, Estado: pendiente
+Orden: 120, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: EDISON ESPINOSA GALLARDO, Estado: pendiente
+Orden: 121, Unidad: Unidad 3, Tema: metodologías de gestión de proyectos para paradigmas tradicionales y, Subtema: FABIÁN ARM, Estado: pendiente

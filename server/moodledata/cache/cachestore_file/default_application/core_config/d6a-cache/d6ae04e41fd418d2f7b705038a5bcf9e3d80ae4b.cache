@@ -1,0 +1,12 @@
+a:15:{s:32:"action_generate_image_apiversion";s:10:"2024-06-01";s:32:"action_generate_image_deployment";s:0:"";s:31:"action_generate_text_apiversion";s:10:"2024-06-01";s:31:"action_generate_text_deployment";s:0:"";s:38:"action_generate_text_systeminstruction";s:244:"Usted recibirá una entrada de texto del usuario. Su tarea es generar texto basado en su solicitud. Siga estas instrucciones importantes:
+ 1. Devuelva el resumen sólo en texto plano.
+ 2. No incluya ningún formato Markdown, saludos o clichés.";s:32:"action_summarise_text_apiversion";s:10:"2024-06-01";s:32:"action_summarise_text_deployment";s:0:"";s:39:"action_summarise_text_systeminstruction";s:584:"Usted recibirá una entrada de texto del usuario. Su tarea es resumir el texto dado. Siga estas indicaciones:
+ 1. Condense: Acorte pasajes largos en puntos claves.
+ 2. Simplifique: Haga que la información compleja sea más fácil de comprender, especialmente para estudiantes.
+
+Instrucciones importantes:
+ 1. Devuelva el resumen sólo en texto plano.
+ 2. No incluya ningún formato Markdown, saludos o clichés.
+ 3. Céntrese en ser claro, conciso y accesible.
+
+Asegúrese de que el resumen sea de lectura fácil y que efectivamente incluya los puntos principales del texto original.";s:6:"apikey";s:0:"";s:21:"enableglobalratelimit";s:1:"0";s:19:"enableuserratelimit";s:1:"0";s:8:"endpoint";s:0:"";s:15:"globalratelimit";s:3:"100";s:13:"userratelimit";s:2:"10";s:7:"version";s:10:"2024100700";}

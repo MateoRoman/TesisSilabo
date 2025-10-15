@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XMLDB PATH="local/silabo/db" VERSION="20250716" COMMENT="XMLDB file for Moodle local/silabo plugin"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../../lib/xmldb/xmldb.xsd"
+>
+  <TABLES>
+    <TABLE NAME="silabos" COMMENT="Stores silabo files and processing status">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="nombre_archivo" TYPE="char" LENGTH="255" NOTNULL="false" SEQUENCE="false"/>
+        <FIELD NAME="contenido" TYPE="text" NOTNULL="false" SEQUENCE="false"/>
+        <FIELD NAME="estado" TYPE="char" LENGTH="20" NOTNULL="true" DEFAULT="pendiente" SEQUENCE="false"/>
+        <FIELD NAME="fecha_subida" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false"/>
+        <FIELD NAME="curso_id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false"/>
+        <FIELD NAME="profesor_id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false"/>
+        <FIELD NAME="archivo_txt" TYPE="char" LENGTH="255" NOTNULL="false" SEQUENCE="false"/>
+        <FIELD NAME="hash_archivo" TYPE="char" LENGTH="64" NOTNULL="false" SEQUENCE="false"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+        <KEY NAME="curso_id" TYPE="foreign" FIELDS="curso_id" REFTABLE="course" REFFIELDS="id"/>
+        <KEY NAME="profesor_id" TYPE="foreign" FIELDS="profesor_id" REFTABLE="user" REFFIELDS="id"/>
+      </KEYS>
+      <INDEXES>
+        <INDEX NAME="curso_profesor_idx" UNIQUE="true" FIELDS="curso_id,profesor_id"/>
+        <INDEX NAME="estado_idx" UNIQUE="false" FIELDS="estado"/>
+        <INDEX NAME="fecha_subida_idx" UNIQUE="false" FIELDS="fecha_subida"/>
+      </INDEXES>
+    </TABLE>
+  </TABLES>
+</XMLDB>

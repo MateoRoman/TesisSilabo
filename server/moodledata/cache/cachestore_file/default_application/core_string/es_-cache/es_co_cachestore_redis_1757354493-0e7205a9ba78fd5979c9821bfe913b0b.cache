@@ -1,0 +1,37 @@
+a:39:{s:7:"ca_file";s:48:"Ruta de archivo CA (Autoridad de Certificación)";s:12:"ca_file_help";s:81:"Localización de archivo Autoridad de Certificación en sistema de archivos local";s:11:"clustermode";s:12:"Modo Cluster";s:16:"clustermode_help";s:171:"Habilitar el modo cluster ejecutará la función de cluster Redis, permitiendo a su servidor multiplicar servidores para manejar solicitudes concurrentes simultáneamente.";s:22:"clustermodeunavailable";s:136:"El cluster Redis ahora no está disponible. Por favor, asegúrese de que la extensión Redis PHP soporte la funcionalidad Redis Cluster.";s:15:"compressor_none";s:16:"Sin compresión.";s:19:"compressor_php_gzip";s:26:"Utilizar compresión gzip.";s:19:"compressor_php_zstd";s:31:"Utilizar compresión Zstandard.";s:17:"connectiontimeout";s:34:"Tiempo de expiración de conexión";s:22:"connectiontimeout_help";s:86:"Esto selecciona el tiempo de expiración cuando se intenta conectar al servidor Redis.";s:18:"encrypt_connection";s:17:"Usar cifrado TLS.";s:23:"encrypt_connection_help";s:103:"Usar TLS para conectar a Redis. No usar "tls://" en el nombre de host de Redis, usar esta otra opción.";s:8:"password";s:11:"Contraseña";s:13:"password_help";s:49:"Esto establece la contraseña del servidor Redis.";s:10:"pluginname";s:5:"Redis";s:6:"prefix";s:16:"Prefijo de clave";s:11:"prefix_help";s:267:"Este prefijo se usa para todos los nombres de clave en el servidor Redis.
+* Si solo tiene una instancia de Moodle usando este servidor, puede dejar este valor predeterminado.
+* Debido a las restricciones de longitud de la clave, se permite un máximo de 5 caracteres.";s:13:"prefixinvalid";s:55:"Prefijo no válido. Sólo puede utilizar a-z A-Z 0-9-_.";s:22:"privacy:metadata:redis";s:231:"El complemento de almacenamiento en caché de Redis almacena datos brevemente como parte de su funcionalidad de almacenamiento en caché. Estos datos se almacenan en un servidor de Redis donde los datos se eliminan con regularidad.";s:27:"privacy:metadata:redis:data";s:42:"Los diferentes datos almacenados en caché";s:19:"serializer_igbinary";s:25:"El serializador igbinary.";s:14:"serializer_php";s:35:"El serializador por defecto de PHP.";s:6:"server";s:12:"Servidor(es)";s:11:"server_help";s:1052:"Servidor Redis que se va a utilizar para pruebas.
+
+Algunos valores de ejemplo:
+
+* testredis.abc.com - Para conectar a un servidor Redis por nombre de host (Puerto 6379 por defecto).
+* testredis.abc.com:1234 - Para conectar a un servidor Redis por nombre de puerto con un puerto específico.
+* 1.2.3.4 - Para conectar a un servidor Redis por dirección IP (Puerto 6379 por defecto).
+* 1.2.3.4:1234 - Para conectar a un servidor Redis por dirección IP usando un puerto específico.
+* unix:///var/redis.sock - Para conectar a un servidor Redis usando un socket Unix.
+* /var/redis.sock - Para conectar a un servidor Redix usando un socket Unix (formato alternativo).
+
+Si el modo cluster está habilitado, por favor, especifique los servidores separados por una línea nueva:<br>
+  172.23.0.11<br>
+  172.23.0.12<br>
+  172.23.0.13<br>
+
+Para más información, consulte <a href="https://redis.io/docs/reference/clients/#accepting-client-connections">Aceptar conexiones de cliente</a> y <a href="https://redis.io/resources/clients/#php">clientes Redis PHP</a>";s:8:"task_ttl";s:68:"Liberar memoria utilizada por entradas caducadas en cachés de Redis";s:16:"test_clustermode";s:12:"Modo Cluster";s:21:"test_clustermode_desc";s:39:"Habilitar Prueba en modo cluster Redis.";s:13:"test_password";s:30:"Probar contraseña de servidor";s:18:"test_password_desc";s:41:"Contraseña del servidor de prueba Redis.";s:15:"test_serializer";s:12:"Serializador";s:20:"test_serializer_desc";s:42:"Serializador para utilizar en las pruebas.";s:11:"test_server";s:19:"Servidor de pruebas";s:16:"test_server_desc";s:1046:"Servidor Redis para utilizar en las pruebas.
+
+Algunos valores de ejemplo:
+
+* testredis.abc.com - Para conectar a un servidor Redis por nombre de host (Puerto 6379 por defecto).
+* testredis.abc.com:1234 - Para conectar a un servidor Redis por nombre de puerto con un puerto específico.
+* 1.2.3.4 - Para conectar a un servidor Redis por dirección IP (Puerto 6379 por defecto).
+* 1.2.3.4:1234 - Para conectar a un servidor Redis por dirección IP usando un puerto específico.
+* unix:///var/redis.sock - Para conectar a un servidor Redis usando un socket Unix.
+* /var/redis.sock - Para conectar a un servidor Redix usando un socket Unix (formato alternativo).
+
+i el modo cluster está habilitado, por favor, especifique los servidores separados por una línea nueva:<br>
+  172.23.0.11<br>
+  172.23.0.12<br>
+  172.23.0.13<br>
+
+Para más información consulte <a href="https://redis.io/docs/reference/clients/#accepting-client-connections">Aceptar conexiones de cliente</a> y <a href="https://redis.io/resources/clients/#php">clientes Redis PHP</a>.";s:8:"test_ttl";s:12:"Probando TTL";s:13:"test_ttl_desc";s:90:"Ejecutar la prueba de rendimiento con una caché que requiera TTL (conjuntos más lentos).";s:13:"usecompressor";s:18:"Utilizar compresor";s:18:"usecompressor_help";s:140:"Especifica el compresor que se utilizará después de la serialización. Se realiza a nivel de API de Moodle Cache, no a nivel de php-redis.";s:13:"useserializer";s:21:"Utilizar serializador";s:18:"useserializer_help";s:297:"Especifica el serializador que se utilizará para la serialización.
+Los serializadores válidos son Redis::SERIALIZER_PHP o Redis::SERIALIZER_IGBINARY.
+Este último es compatible solo cuando phpredis está configurado con la opción --enable-redis-igbinary y la extensión igbinary está cargada.";}
